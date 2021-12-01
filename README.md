@@ -1,16 +1,20 @@
-### Hi there 👋
+## Olá, eu sou Matheus Santos
 
-<!--
-**matheusg18/matheusg18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre
 
-Here are some ideas to get you started:
+Moro em Recife, Pernambuco. Comecei minha jornada na programção em 2018 com C, daí eu fui aprendendo um pouco de tudo: C++, Unity (c#), Java, Python. Sosseguei e atualmente eu sou estudante de Desenvolvimento Web na Trybe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No tempo livre geralmente eu estou programando algo novo ou jogando um game. Adoro games como The Witcher 3, Hollow Knight e Skyrim. Também adoro aprender coisas novas de programção.
+
+### Linguagens e ferramentas
+
+<div align="left">
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" heigth="40"/>
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" heigth="40" />
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" heigth="40" />
+</div>
+
+
+<a href="https://www.linkedin.com/in/matheusg18/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a>
