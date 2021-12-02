@@ -2,9 +2,11 @@
 
 ### Sobre
 
-Moro em Recife, Pernambuco. Comecei minha jornada na programção em 2018 com C, daí eu fui aprendendo um pouco de tudo: C++, Unity (c#), Java, Python. Sosseguei e atualmente eu sou estudante de Desenvolvimento Web na Trybe.
+Moro em Recife, Pernambuco. Comecei minha jornada na programação em 2018 com C, daí eu fui aprendendo um pouco de tudo: C++, Unity (C#), Java, Python. Sosseguei e agora eu sou estudante de Desenvolvimento Web na Trybe.
 
-No tempo livre geralmente eu estou programando algo novo ou jogando um game. Adoro games como The Witcher 3, Hollow Knight e Skyrim. Também adoro aprender coisas novas de programação.
+Atualmente estou terminando o módulo de Front-End onde eu aprendi React e estou tentando aperfeiçoar o CSS aprendendo Bootstrape e Sass.
+
+No tempo livre, geralmente, programo algo novo ou jogo um game. Adoro games como The Witcher 3, Hollow Knight e Skyrim. Também adoro aprender coisas novas de programação.
 
 ### Linguagens e ferramentas
 
