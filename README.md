@@ -4,7 +4,7 @@
 
 Moro em Recife, Pernambuco. Comecei minha jornada na programção em 2018 com C, daí eu fui aprendendo um pouco de tudo: C++, Unity (c#), Java, Python. Sosseguei e atualmente eu sou estudante de Desenvolvimento Web na Trybe.
 
-No tempo livre geralmente eu estou programando algo novo ou jogando um game. Adoro games como The Witcher 3, Hollow Knight e Skyrim. Também adoro aprender coisas novas de programção.
+No tempo livre geralmente eu estou programando algo novo ou jogando um game. Adoro games como The Witcher 3, Hollow Knight e Skyrim. Também adoro aprender coisas novas de programação.
 
 ### Linguagens e ferramentas
 
@@ -25,9 +25,9 @@ No tempo livre geralmente eu estou programando algo novo ou jogando um game. Ado
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigth="40" />
   <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" heigth="40"/>
 </div>
-<br />
 
+### Contato
 
-<a href="https://www.linkedin.com/in/matheusg18/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/matheusg18/" target="_blank">
+  <img alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" heigth="40" />
 <a>
