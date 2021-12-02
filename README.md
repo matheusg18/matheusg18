@@ -25,6 +25,9 @@ No tempo livre geralmente eu estou programando algo novo ou jogando um game. Ado
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigth="40" />
   <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" heigth="40"/>
 </div>
+<br />
+
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg18&theme=github_dark&layout=compact" />
 
 ### Contato
 
