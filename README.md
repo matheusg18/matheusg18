@@ -27,7 +27,7 @@ No tempo livre geralmente eu estou programando algo novo ou jogando um game. Ado
 </div>
 <br />
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg18&theme=github_dark&layout=compact" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusg18&locale=pt-br&theme=github_dark&layout=compact" />
 
 ### Contato
 
