@@ -6,8 +6,6 @@ Moro em Recife, Pernambuco. Comecei minha jornada na programção em 2018 com C,
 
 No tempo livre geralmente eu estou programando algo novo ou jogando um game. Adoro games como The Witcher 3, Hollow Knight e Skyrim. Também adoro aprender coisas novas de programação.
 
-Meu email: matheusgabriel.18@gmail.com
-
 ### Linguagens e ferramentas
 
 <div align="left">
@@ -33,3 +31,6 @@ Meu email: matheusgabriel.18@gmail.com
 <a href="https://www.linkedin.com/in/matheusg18/">
   <img alt="Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" heigth="40" />
 <a>
+<a href="mailto:matheusgabriel.18@gmail.com">
+  <img alt="GMail" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="40" heigth="40"/>
+</a>
