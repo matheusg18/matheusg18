@@ -32,7 +32,7 @@ No tempo livre, geralmente, programo algo novo ou jogo um game. Adoro games como
   <a href="https://jestjs.io/pt-BR/">
     <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" heigth="40" />
   </a>
-  <a href="https://testing-library.com//">
+  <a href="https://testing-library.com/">
     <img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="40" heigth="40" />
   </a>
   <a href="https://sass-lang.com/">
