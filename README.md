@@ -11,16 +11,33 @@ No tempo livre, geralmente, programo algo novo ou jogo um game. Adoro games como
 ### Linguagens e ferramentas
 
 <div align="left">
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" heigth="40"/>
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" heigth="40" />
-  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" heigth="40" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" heigth="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" heigth="40" />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" heigth="40" />
+  </a>
 </div>
 <br />
 <div align="left">
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" heigth="40"/>
-  <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" heigth="40" />
-  <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" heigth="40" />
-  <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" heigth="40" />
+  <a href="https://reactjs.org/">
+    <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" heigth="40"/>
+  </a>
+  <a href="https://redux.js.org/">
+    <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" heigth="40" />
+  </a>
+  <a href="https://jestjs.io/pt-BR/">
+    <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" heigth="40" />
+  </a>
+  <a href="https://testing-library.com//">
+    <img alt="React Testing Library" src="https://testing-library.com/img/octopus-128x128.png" width="40" heigth="40" />
+  </a>
+  <a href="https://sass-lang.com/">
+    <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" heigth="40" />
+  </a>
 </div>
 <br />
 <div align="left">
