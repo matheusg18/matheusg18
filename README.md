@@ -41,9 +41,15 @@ No tempo livre, geralmente, programo algo novo ou jogo um game. Adoro games como
 </div>
 <br />
 <div align="left">
-  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" heigth="40"/>
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigth="40" />
-  <img alt="Github" src="/resources/GitHub-Mark-Light-32px.png" width="40" heigth="40"/>
+  <a href="https://www.linux.org/">
+    <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" heigth="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" heigth="40" />
+  </a>
+  <a href="https://github.com/matheusg18">
+    <img alt="Github" src="/resources/GitHub-Mark-Light-32px.png" width="40" heigth="40"/>
+  </a>
 </div>
 <br />
 
