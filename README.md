@@ -4,7 +4,7 @@
 
 Moro em Recife, Pernambuco. Comecei minha jornada na programação em 2018 com C, daí eu fui aprendendo um pouco de tudo: C++, Unity (C#), Java, Python. Sosseguei e agora eu sou estudante de Desenvolvimento Web na Trybe.
 
-Atualmente estou terminando o módulo de Front-End onde eu aprendi React e estou tentando aperfeiçoar o CSS aprendendo Bootstrap e Sass.
+Atualmente estou terminando o módulo de Back-End onde eu aprendi a criar APIs utilizando NodeJS.
 
 No tempo livre, geralmente, programo algo novo ou jogo um game. Adoro games como The Witcher 3, Hollow Knight e Skyrim. Também adoro aprender coisas novas de programação.
 
