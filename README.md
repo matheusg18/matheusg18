@@ -20,6 +20,9 @@ No tempo livre, geralmente, programo algo novo ou jogo um game. Adoro games como
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" heigth="40" />
   </a>
+  <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/typescript.png" width="40" heigth="40" />
+  </a>
 </div>
 <br />
 <div align="left">
@@ -38,6 +41,24 @@ No tempo livre, geralmente, programo algo novo ou jogo um game. Adoro games como
   <a href="https://sass-lang.com/">
     <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" heigth="40" />
   </a>
+  <a href="https://styled-components.com/">
+    <img alt="Styled Components" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/styled-components.png" width="40" heigth="40" />
+  </a>
+  <a href="https://nodejs.dev/">
+    <img alt="NodeJS" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/nodejs.png" width="40" heigth="40" />
+  </a>
+  <a href="https://mochajs.org/">
+    <img alt="Mocha" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/mocha.png" width="40" heigth="40" />
+  </a>
+  <a href="https://www.chaijs.com/">
+    <img alt="Chai" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/chai.png" width="40" heigth="40" />
+  </a>
+  <a href="https://sinonjs.org/">
+    <img alt="Sinon" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/sinon.png" width="40" heigth="40" />
+  </a>
+  <a href="https://sequelize.org/master/">
+    <img alt="Sequelize" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/sequelize.png" width="40" heigth="40" />
+  </a>
 </div>
 <br />
 <div align="left">
@@ -52,6 +73,9 @@ No tempo livre, geralmente, programo algo novo ou jogo um game. Adoro games como
   </a>
   <a href="https://www.docker.com/">
     <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" heigth="40"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img alt="MySQL" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/mysql.png" width="40" heigth="40" />
   </a>
 </div>
 <br />
