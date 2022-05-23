@@ -2,11 +2,10 @@
 
 ### Sobre
 
-Moro em Recife, Pernambuco. Comecei minha jornada na programação em 2018 com C, daí eu fui aprendendo um pouco de tudo: C++, Unity (C#), Java, Python. Sosseguei e agora eu sou estudante de Desenvolvimento Web na Trybe.
+Eu sou Matheus Gabriel Silva dos Santos, tenho 22 anos e moro em Recife - PE.
 
-Atualmente estou terminando o módulo de Back-End onde eu aprendi a criar APIs utilizando NodeJS.
-
-No tempo livre, geralmente, programo algo novo ou jogo um game. Adoro games como The Witcher 3, Hollow Knight e Skyrim. Também adoro aprender coisas novas de programação.
+Desde criança gostava de fazer desafios de lógica e de matemática, tanto que isso me levou para a faculdade de Engenharia Elétrica onde eu aprendi a linguagem C e me identifiquei muito.
+Com a pandemia, sem aulas, me voltei mais para a programação onde aprendi C++, Java, Unity (fiquei quase 2 meses desenvolvendo um joguinho 2D) e Python como hobby porque eu gostava e porque me desafiava. Entrei para a Trybe (escola de programação) com o propósito de transformar esse hobby em trabalho. E aqui estou eu buscando minha primeira oportunidade de trabalho 😁.
 
 ### Linguagens e ferramentas
 
