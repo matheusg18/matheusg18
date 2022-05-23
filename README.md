@@ -76,6 +76,9 @@ Com a pandemia, sem aulas, me voltei mais para a programação onde aprendi C++,
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://raw.githubusercontent.com/matheusg18/matheusg18.github.io/main/public/icons/mysql.png" width="40" heigth="40" />
   </a>
+  <a href="https://www.mongodb.com/">
+    <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" heigth="40" />
+  </a>
 </div>
 <br />
 
