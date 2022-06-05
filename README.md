@@ -28,6 +28,9 @@ Com a pandemia, sem aulas, me voltei mais para a programação onde aprendi C++,
   <a href="https://reactjs.org/">
     <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" heigth="40"/>
   </a>
+  <a href="https://nextjs.org/">
+    <img alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" heigth="40"/>
+  </a>
   <a href="https://redux.js.org/">
     <img alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" heigth="40" />
   </a>
