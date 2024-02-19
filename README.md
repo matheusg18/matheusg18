@@ -2,10 +2,15 @@
 
 ### Sobre
 
-Eu sou Matheus Gabriel Silva dos Santos, tenho 22 anos e moro em Recife - PE.
+Olá! Sou Matheus Santos, um engenheiro de software fullstack de 23 anos, residente em Recife, Pernambuco. Desde jovem, minha paixão pela lógica e matemática me impulsionou para a programação, iniciando com a linguagem C durante minha graduação em engenharia elétrica.
 
-Desde criança gostava de fazer desafios de lógica e de matemática, tanto que isso me levou para a faculdade de Engenharia Elétrica onde eu aprendi a linguagem C e me identifiquei muito.
-Com a pandemia, sem aulas, me voltei mais para a programação onde aprendi C++, Java, Unity (fiquei quase 2 meses desenvolvendo um joguinho 2D) e Python como hobby porque eu gostava e porque me desafiava. Entrei para a Trybe (escola de programação) com o propósito de transformar esse hobby em trabalho. E aqui estou eu buscando minha primeira oportunidade de trabalho 😁.
+Durante a pandemia, aproveitei para aprimorar minhas habilidades em diversas tecnologias, incluindo C++, Java e Unity, além de me especializar em desenvolvimento fullstack.
+
+Possuo experiência sólida em desenvolvimento frontend utilizando React, HTML, CSS, SASS, JavaScript, TypeScript e Redux. No backend, trabalho com Node.js, Express, MySQL, MongoDB e REST API. Além disso, domino ferramentas como Git, Docker e Linux.
+
+Atualmente, atuo como engenheiro de software fullstack, principalmente com Vue.js e microservices utilizando Spring e Node.js, desenvolvendo soluções modernas, eficazes e eficientes. Estou sempre em busca de novas oportunidades para ampliar meu conhecimento e contribuir para projetos emocionantes.
+
+Sinta-se à vontade para entrar em contato e conversarmos sobre possíveis colaborações!
 
 ### Linguagens e ferramentas
 
