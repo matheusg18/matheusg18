@@ -319,6 +319,7 @@ I'm always eager to learn, tackle new challenges, and contribute to impactful pr
 </div>
 
 <br />
+<br />
 
 <p>
   <img
